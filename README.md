@@ -1,13 +1,6 @@
 E-commerce Admin Dashboard
-https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB
-https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
-https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/MUI-%25230081CB.svg?style=for-the-badge&logo=mui&logoColor=white
 
 A comprehensive admin dashboard for managing an e-commerce platform built with the MERN stack. This panel provides store administrators with complete control over products, orders, customers, and business analytics.
-
-https://via.placeholder.com/800x400?text=E-commerce+Admin+Dashboard+Preview
 
 ✨ Features
 📊 Dashboard: Overview of store performance with sales analytics and key metrics
